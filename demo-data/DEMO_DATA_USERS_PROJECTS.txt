@@ -1,0 +1,874 @@
+================================================================================
+DEMO DATA - USERS & PROJECTS FOR SHOWCASE
+================================================================================
+Date: May 2026
+Region: India
+Total Users: 3
+Total Projects: 38 (distributed across 3 users)
+Currency: INR
+
+================================================================================
+USER 1: RAJESH KUMAR CONTRACTORS
+================================================================================
+
+Email: rajesh.kumar@constructionco.com
+Company: Kumar Construction & Developers
+Phone: +91-9876543210
+Region: Maharashtra (Mumbai, Pune, Aurangabad)
+Experience: 15+ years in residential and commercial construction
+User Type: Construction Company / Contractor
+Status: Active
+Join Date: January 2024
+
+---
+
+PROJECT 1: Residential Complex - Westend Towers
+Project Code: WET-001
+Location: Bandra, Mumbai, Maharashtra
+Project Type: Residential Complex (Residential - Apartment)
+Start Date: January 15, 2024
+End Date: December 31, 2025
+Status: In Progress (80% complete)
+Built-up Area: 150,000 sq.m.
+Estimated Budget: ₹750,000,000
+Current Spend: ₹600,000,000
+Budget Variance: ₹150,000,000 (20% remaining)
+Description: 
+  High-rise residential complex with 450 apartments spread across 25 towers.
+  Features: 3BHK & 4BHK units, swimming pool, gym, community center.
+  Materials: RCC, brick masonry, premium tiles, glass facade.
+  Status: Foundation complete, structure in progress on 15 towers.
+
+---
+
+PROJECT 2: Commercial Office Building - TechHub Mumbai
+Project Code: THM-002
+Location: Lower Parel, Mumbai, Maharashtra
+Project Type: Commercial Building
+Start Date: March 1, 2024
+End Date: November 30, 2025
+Status: In Progress (65% complete)
+Built-up Area: 85,000 sq.m.
+Estimated Budget: ₹425,000,000
+Current Spend: ₹276,250,000
+Description:
+  Grade A office building with 20 floors, basement parking for 800 vehicles.
+  Features: Modern glass and aluminum facade, energy-efficient design.
+  Facilities: Cafeteria, meeting rooms, collaborative spaces.
+  Current Status: Structural frame complete, internal finishing ongoing.
+
+---
+
+PROJECT 3: Hospital Building - Medicare Healthcare
+Project Code: MHC-003
+Location: Pune, Maharashtra
+Project Type: Healthcare Facility (Hospital)
+Start Date: June 1, 2024
+End Date: May 31, 2026
+Status: In Progress (50% complete)
+Built-up Area: 120,000 sq.m.
+Estimated Budget: ₹600,000,000
+Current Spend: ₹300,000,000
+Description:
+  500-bed multi-specialty hospital with OPD, ICU, operation theaters.
+  Special Requirements: Fire safety systems, medical gas pipeline, backup power.
+  Current Status: Structural work in progress, MEP rough-in starting.
+
+---
+
+PROJECT 4: Retail Shopping Complex - MegaMall Downtown
+Project Code: MMD-004
+Location: Thane, Maharashtra
+Project Type: Commercial Building (Retail/Shopping)
+Start Date: February 15, 2024
+End Date: January 31, 2026
+Status: Completed (100% complete)
+Built-up Area: 200,000 sq.m.
+Estimated Budget: ₹800,000,000
+Final Cost: ₹795,000,000
+Description:
+  10-floor shopping mall with 400+ retail outlets, cinemas, food court.
+  Features: Automated parking system, modern HVAC, premium finishing.
+  Completion: Delivered on schedule, operational since February 2025.
+
+---
+
+PROJECT 5: Residential Villas - Premium Gated Community
+Project Code: PGC-005
+Location: Lonavala, Maharashtra
+Project Type: Residential (Villas)
+Start Date: September 1, 2024
+End Date: August 31, 2025
+Status: In Progress (75% complete)
+Built-up Area: 8,500 sq.m. (50 villas x 170 sq.m. each)
+Estimated Budget: ₹127,500,000
+Current Spend: ₹95,625,000
+Description:
+  Luxury villa community with 50 standalone units, private roads, security.
+  Features: 3BHK villas, private gardens, swimming pools in select units.
+  Current Status: 40 villas completed, 10 in finishing phase.
+
+---
+
+PROJECT 6: Educational Institution - Central University Campus
+Project Code: CUC-006
+Location: Aurangabad, Maharashtra
+Project Type: Educational Institution
+Start Date: July 1, 2024
+End Date: June 30, 2026
+Status: In Progress (40% complete)
+Built-up Area: 95,000 sq.m.
+Estimated Budget: ₹380,000,000
+Current Spend: ₹152,000,000
+Description:
+  Multi-purpose university campus with classroom blocks, library, hostels.
+  Features: 5 academic buildings, 2 hostel buildings, administrative block.
+  Current Status: Foundation and structural work on 3 buildings complete.
+
+---
+
+PROJECT 7: Industrial Warehouse - Logistics Hub
+Project Code: LH-007
+Location: Mumbai Port Area, Maharashtra
+Project Type: Industrial Building (Warehouse)
+Start Date: November 1, 2023
+End Date: October 31, 2024
+Status: Completed (100% complete)
+Built-up Area: 45,000 sq.m.
+Estimated Budget: ₹90,000,000
+Final Cost: ₹87,500,000
+Description:
+  Large-scale warehouse with automated storage systems, container handling area.
+  Features: Wide-span structure, RCC columns, metal roofing, office areas.
+  Completion: Fully operational, ISO certified.
+
+---
+
+PROJECT 8: Residential Development - Green Valley Homes
+Project Code: GVH-008
+Location: Nashik, Maharashtra
+Project Type: Residential Complex (Apartments)
+Start Date: May 1, 2024
+End Date: April 30, 2026
+Status: In Progress (55% complete)
+Built-up Area: 65,000 sq.m.
+Estimated Budget: ₹325,000,000
+Current Spend: ₹178,750,000
+Description:
+  300 apartments in 5 towers with eco-friendly features, rainwater harvesting.
+  Features: 2BHK and 3BHK units, community spaces, parks.
+  Current Status: 3 towers completed and handed over, 2 under construction.
+
+---
+
+PROJECT 9: Office Park - Corporate Zone
+Project Code: CZ-009
+Location: Pune Tech Park, Pune
+Project Type: Commercial - Office
+Start Date: January 1, 2024
+End Date: December 31, 2024
+Status: Completed (100% complete)
+Built-up Area: 35,000 sq.m.
+Estimated Budget: ₹140,000,000
+Final Cost: ₹136,500,000
+Description:
+  3 office buildings connected by climate-controlled corridors.
+  Features: Premium finishes, smart building systems, landscaped grounds.
+  Completion: Fully leased, operational since January 2025.
+
+---
+
+PROJECT 10: Heritage Hotel Restoration - Old Fort Palace
+Project Code: OFP-010
+Location: Aurangabad, Maharashtra
+Project Type: Heritage Building Restoration
+Start Date: August 1, 2024
+End Date: July 31, 2025
+Status: In Progress (45% complete)
+Built-up Area: 12,000 sq.m.
+Estimated Budget: ₹180,000,000
+Current Spend: ₹81,000,000
+Description:
+  Restoration of 200-year-old palace into heritage hotel with 100 rooms.
+  Features: Period architectural preservation, modern amenities, conference halls.
+  Current Status: Structural repairs complete, interior restoration in progress.
+
+---
+
+PROJECT 11: Residential Township - Riverside Gardens
+Project Code: RG-011
+Location: Pune, Maharashtra
+Project Type: Residential Township
+Start Date: March 15, 2024
+End Date: December 31, 2025
+Status: In Progress (60% complete)
+Built-up Area: 180,000 sq.m.
+Estimated Budget: ₹900,000,000
+Current Spend: ₹540,000,000
+Description:
+  Large township with 600 apartments, 200 villas, commercial area.
+  Features: Schools, shopping center, clubhouse, sports facilities.
+  Current Status: 300 apartments and 100 villas completed, balance in progress.
+
+---
+
+PROJECT 12: Medical College Building
+Project Code: MCB-012
+Location: Pune, Maharashtra
+Project Type: Educational/Medical Institution
+Start Date: June 1, 2024
+End Date: May 31, 2026
+Status: In Progress (50% complete)
+Built-up Area: 75,000 sq.m.
+Estimated Budget: ₹300,000,000
+Current Spend: ₹150,000,000
+Description:
+  Medical college with classrooms, laboratories, hospital facility.
+  Features: 500-bed hospital, anatomy labs, advanced research facilities.
+  Current Status: Main building structural work in progress.
+
+---
+
+PROJECT 13: Restaurant & Food Court Complex
+Project Code: RFC-013
+Location: Bandra, Mumbai
+Project Type: Commercial - Food Service
+Start Date: October 1, 2024
+End Date: September 30, 2025
+Status: In Progress (35% complete)
+Built-up Area: 8,000 sq.m.
+Estimated Budget: ₹56,000,000
+Current Spend: ₹19,600,000
+Description:
+  Multi-cuisine restaurant complex with 12 food outlets and central kitchen.
+  Features: Open kitchen concept, dining areas, delivery hub.
+  Current Status: Structural work complete, MEP installation ongoing.
+
+---
+
+PROJECT 14: Parking Structure - Multi-Level
+Project Code: PS-014
+Location: Thane, Mumbai
+Project Type: Infrastructure - Parking
+Start Date: April 1, 2024
+End Date: March 31, 2025
+Status: Completed (100% complete)
+Built-up Area: 22,000 sq.m. (7 levels)
+Estimated Budget: ₹110,000,000
+Final Cost: ₹106,700,000
+Description:
+  7-level automated parking structure with capacity for 1,400 vehicles.
+  Features: Smart management system, electric vehicle charging stations.
+  Completion: Operational since April 2025.
+
+---
+
+PROJECT 15: Wellness Center & Spa Resort
+Project Code: WCR-015
+Location: Lonavala, Maharashtra
+Project Type: Hospitality/Wellness
+Start Date: September 1, 2024
+End Date: August 31, 2025
+Status: In Progress (70% complete)
+Built-up Area: 18,000 sq.m.
+Estimated Budget: ₹144,000,000
+Current Spend: ₹100,800,000
+Description:
+  Luxury wellness resort with spa, yoga center, treatment rooms, accommodation.
+  Features: Water therapy facilities, naturopathy center, organic restaurant.
+  Current Status: Structural work complete, luxury finishes in progress.
+
+================================================================================
+USER 2: PRIYA CONSTRUCTION SOLUTIONS
+================================================================================
+
+Email: priya.sharma@constructionsolutions.in
+Company: Sharma Construction & Real Estate Pvt Ltd
+Phone: +91-9765432109
+Region: Karnataka & Telangana (Bangalore, Hyderabad, Kochi)
+Experience: 12 years in mixed-use and residential development
+User Type: Construction Developer / Contractor
+Status: Active
+Join Date: March 2024
+
+---
+
+PROJECT 1: Smart City Development - IT Hub
+Project Code: ITH-101
+Location: HITEC City, Hyderabad, Telangana
+Project Type: Commercial - Mixed Use
+Start Date: February 1, 2024
+End Date: January 31, 2026
+Status: In Progress (70% complete)
+Built-up Area: 250,000 sq.m.
+Estimated Budget: ₹1,250,000,000
+Current Spend: ₹875,000,000
+Description:
+  Integrated IT and commercial hub with offices, retail, residential.
+  Features: Smart building features, IoT infrastructure, green spaces.
+  Current Status: 3 commercial towers completed, 2 under construction.
+
+---
+
+PROJECT 2: Residential Apartments - Indiranagar Towers
+Project Code: IND-102
+Location: Bangalore, Karnataka
+Project Type: Residential - Apartments
+Start Date: May 1, 2024
+End Date: April 30, 2026
+Status: In Progress (50% complete)
+Built-up Area: 95,000 sq.m.
+Estimated Budget: ₹475,000,000
+Current Spend: ₹237,500,000
+Description:
+  3 residential towers with 360 apartments, modern amenities.
+  Features: Smart homes, energy-efficient design, landscaped podium.
+  Current Status: 1 tower completed and occupied, 2 in progress.
+
+---
+
+PROJECT 3: Data Center - Cloud Infrastructure
+Project Code: DCF-103
+Location: Bangalore Tech Park, Karnataka
+Project Type: Industrial - Data Center
+Start Date: March 15, 2024
+End Date: February 28, 2025
+Status: In Progress (85% complete)
+Built-up Area: 35,000 sq.m.
+Estimated Budget: ₹350,000,000
+Current Spend: ₹297,500,000
+Description:
+  State-of-the-art data center with redundant systems, high security.
+  Features: Tier-4 certification, backup power, advanced cooling systems.
+  Current Status: Infrastructure complete, systems commissioning in progress.
+
+---
+
+PROJECT 4: Shopping Mall - Prestige Retail
+Project Code: PR-104
+Location: Whitefield, Bangalore
+Project Type: Commercial - Retail
+Start Date: June 1, 2023
+End Date: May 31, 2024
+Status: Completed (100% complete)
+Built-up Area: 125,000 sq.m.
+Estimated Budget: ₹500,000,000
+Final Cost: ₹487,500,000
+Description:
+  Premium shopping mall with 350+ retail outlets, cinema, food court.
+  Features: Luxury brands, entertainment zones, premium finishes.
+  Completion: Highly successful retail destination, 95% occupancy.
+
+---
+
+PROJECT 5: Residential Villas - Tech Enclave
+Project Code: TE-105
+Location: Sarjapur Road, Bangalore
+Project Type: Residential - Villas
+Start Date: August 1, 2024
+End Date: July 31, 2025
+Status: In Progress (60% complete)
+Built-up Area: 12,000 sq.m. (75 villas)
+Estimated Budget: ₹180,000,000
+Current Spend: ₹108,000,000
+Description:
+  Luxury villa community with 75 independent villas, private amenities.
+  Features: Smart home systems, landscaped gardens, security systems.
+  Current Status: 45 villas completed and occupied, 30 in completion phase.
+
+---
+
+PROJECT 6: Educational Campus - Global University
+Project Code: GU-106
+Location: Kenchenhalli, Bangalore
+Project Type: Educational Institution
+Start Date: July 1, 2024
+End Date: June 30, 2026
+Status: In Progress (35% complete)
+Built-up Area: 140,000 sq.m.
+Estimated Budget: ₹560,000,000
+Current Spend: ₹196,000,000
+Description:
+  International university campus with modern educational facilities.
+  Features: 6 academic blocks, 4 hostel buildings, sports complex.
+  Current Status: Foundation and piling work in progress.
+
+---
+
+PROJECT 7: Commercial Office - Tech Valley
+Project Code: TV-107
+Location: Outer Ring Road, Bangalore
+Project Type: Commercial - Office
+Start Date: April 1, 2024
+End Date: March 31, 2025
+Status: Completed (100% complete)
+Built-up Area: 45,000 sq.m.
+Estimated Budget: ₹180,000,000
+Final Cost: ₹171,000,000
+Description:
+  Grade A office complex with state-of-the-art facilities.
+  Features: 12 floors, 300+ parking spaces, LEED certified.
+  Completion: 100% leased to multinational companies.
+
+---
+
+PROJECT 8: Residential Township - Green Valley
+Project Code: GV-108
+Location: Whitefield, Bangalore
+Project Type: Residential Township
+Start Date: September 1, 2023
+End Date: August 31, 2025
+Status: In Progress (75% complete)
+Built-up Area: 200,000 sq.m.
+Estimated Budget: ₹1,000,000,000
+Current Spend: ₹750,000,000
+Description:
+  Large integrated township with apartments, villas, commercial area.
+  Features: School, shopping center, community facilities, green spaces.
+  Current Status: 500 apartments and 200 villas completed, balance nearing completion.
+
+---
+
+PROJECT 9: Hospital & Medical Complex
+Project Code: HMC-109
+Location: Koramangala, Bangalore
+Project Type: Healthcare - Hospital
+Start Date: October 1, 2024
+End Date: September 30, 2026
+Status: In Progress (40% complete)
+Built-up Area: 85,000 sq.m.
+Estimated Budget: ₹425,000,000
+Current Spend: ₹170,000,000
+Description:
+  Multi-specialty hospital with 300 beds, advanced diagnostic facilities.
+  Features: Operation theaters, ICU, modular design for expansion.
+  Current Status: Structural work on main building ongoing.
+
+---
+
+PROJECT 10: Corporate Headquarters - Global Tech
+Project Code: GT-110
+Location: Manyata Park, Bangalore
+Project Type: Commercial - Corporate
+Start Date: January 1, 2024
+End Date: December 31, 2024
+Status: Completed (100% complete)
+Built-up Area: 55,000 sq.m.
+Estimated Budget: ₹275,000,000
+Final Cost: ₹253,000,000
+Description:
+  Iconic corporate office building with premium finishes, green design.
+  Features: Executive suites, conference centers, recreational facilities.
+  Completion: Operational since January 2025.
+
+---
+
+PROJECT 11: Hotel & Convention Center
+Project Code: HCC-111
+Location: Bangalore International Airport Area
+Project Type: Hospitality - Hotel
+Start Date: May 15, 2024
+End Date: April 30, 2026
+Status: In Progress (55% complete)
+Built-up Area: 78,000 sq.m.
+Estimated Budget: ₹390,000,000
+Current Spend: ₹214,500,000
+Description:
+  5-star hotel with 300 rooms, convention center, multiple restaurants.
+  Features: Rooftop pool, business facilities, premium amenities.
+  Current Status: Structural work complete, MEP rough-in ongoing.
+
+---
+
+PROJECT 12: Retail Food Court - Downtown Center
+Project Code: DFC-112
+Location: Koramangala, Bangalore
+Project Type: Commercial - Food & Beverage
+Start Date: August 1, 2024
+End Date: July 31, 2025
+Status: In Progress (50% complete)
+Built-up Area: 6,500 sq.m.
+Estimated Budget: ₹39,000,000
+Current Spend: ₹19,500,000
+Description:
+  Premium food court with 15 food outlets, central kitchen.
+  Features: Modern design, open kitchen, dining areas.
+  Current Status: Structural work complete, MEP installation in progress.
+
+---
+
+PROJECT 13: Industrial Park - Manufacturing Hub
+Project Code: MH-113
+Location: Bangalore Industrial Area, Karnataka
+Project Type: Industrial - Manufacturing
+Start Date: March 1, 2024
+End Date: February 28, 2025
+Status: Completed (100% complete)
+Built-up Area: 65,000 sq.m.
+Estimated Budget: ₹195,000,000
+Final Cost: ₹186,750,000
+Description:
+  Industrial park with modular units for manufacturing and assembly.
+  Features: Flexible layouts, utilities infrastructure, security.
+  Completion: Fully leased to manufacturing companies.
+
+---
+
+PROJECT 14: Wellness & Recreation Center
+Project Code: WRC-114
+Location: Marathahalli, Bangalore
+Project Type: Recreation - Wellness
+Start Date: June 1, 2024
+End Date: May 31, 2025
+Status: In Progress (65% complete)
+Built-up Area: 22,000 sq.m.
+Estimated Budget: ₹132,000,000
+Current Spend: ₹85,800,000
+Description:
+  Modern wellness center with gym, yoga, swimming, spa facilities.
+  Features: Olympic-size pool, multiple studios, luxury spa.
+  Current Status: Structural work complete, MEP and finishing in progress.
+
+---
+
+PROJECT 15: Residential Apartments - Whitefield Heights
+Project Code: WH-115
+Location: Whitefield, Bangalore
+Project Type: Residential - Apartments
+Start Date: November 1, 2023
+End Date: October 31, 2024
+Status: Completed (100% complete)
+Built-up Area: 75,000 sq.m.
+Estimated Budget: ₹375,000,000
+Final Cost: ₹356,250,000
+Description:
+  2 residential towers with 280 apartments, modern amenities.
+  Features: Smart homes, energy-efficient, sustainable design.
+  Completion: 100% occupied, highly appreciated by residents.
+
+================================================================================
+USER 3: DEEPAK INFRASTRUCTURE DEVELOPERS
+================================================================================
+
+Email: deepak.verma@infrastructuredev.com
+Company: Verma Infrastructure & Construction
+Phone: +91-9654321098
+Region: Delhi-NCR, Uttar Pradesh, Rajasthan (Delhi, Noida, Jaipur)
+Experience: 18+ years in infrastructure and large-scale developments
+User Type: Large Infrastructure Developer
+Status: Active
+Join Date: February 2024
+
+---
+
+PROJECT 1: High-Speed Rail Transit Hub
+Project Code: HST-201
+Location: Haryana-Delhi Border, NCR
+Project Type: Infrastructure - Transportation
+Start Date: January 1, 2024
+End Date: December 31, 2025
+Status: In Progress (45% complete)
+Built-up Area: 320,000 sq.m.
+Estimated Budget: ₹3,200,000,000
+Current Spend: ₹1,440,000,000
+Description:
+  Modern transit hub for high-speed rail with retail and hospitality.
+  Features: 4 platforms, 20,000 sq.m. retail, 500-room hotel.
+  Current Status: Platform construction and building foundation work in progress.
+
+---
+
+PROJECT 2: Mixed-Use Development - Metro Village
+Project Code: MV-202
+Location: Gurgaon, Haryana
+Project Type: Residential/Commercial - Mixed Use
+Start Date: March 15, 2024
+End Date: February 28, 2026
+Status: In Progress (55% complete)
+Built-up Area: 450,000 sq.m.
+Estimated Budget: ₹2,250,000,000
+Current Spend: ₹1,237,500,000
+Description:
+  Integrated development with 1,500 apartments, 200 villas, offices, retail.
+  Features: Central business district, residential towers, shopping mall.
+  Current Status: 4 residential towers and commercial block in progress.
+
+---
+
+PROJECT 3: Government Administrative Complex
+Project Code: GAC-203
+Location: New Delhi, Delhi
+Project Type: Public/Government Building
+Start Date: June 1, 2024
+End Date: May 31, 2026
+Status: In Progress (40% complete)
+Built-up Area: 180,000 sq.m.
+Estimated Budget: ₹720,000,000
+Current Spend: ₹288,000,000
+Description:
+  Modern administrative complex for state government offices.
+  Features: 10 office buildings, conference halls, security infrastructure.
+  Current Status: Site preparation and foundation work in progress.
+
+---
+
+PROJECT 4: Residential Complex - Elite Heights
+Project Code: EH-204
+Location: Noida, Uttar Pradesh
+Project Type: Residential - Apartments
+Start Date: April 1, 2023
+End Date: March 31, 2024
+Status: Completed (100% complete)
+Built-up Area: 140,000 sq.m.
+Estimated Budget: ₹700,000,000
+Final Cost: ₹665,000,000
+Description:
+  Large residential complex with 520 apartments across 8 towers.
+  Features: Premium amenities, landscaped parks, community center.
+  Completion: Fully handed over and occupied.
+
+---
+
+PROJECT 5: International Convention Center
+Project Code: ICC-205
+Location: Pragati Maidan, New Delhi
+Project Type: Commercial - Convention Center
+Start Date: August 1, 2024
+End Date: July 31, 2026
+Status: In Progress (35% complete)
+Built-up Area: 95,000 sq.m.
+Estimated Budget: ₹475,000,000
+Current Spend: ₹166,250,000
+Description:
+  State-of-the-art convention center with multiple halls, hotel, dining.
+  Features: 5,000-seat auditorium, exhibition halls, international standards.
+  Current Status: Structural work design and site mobilization ongoing.
+
+---
+
+PROJECT 6: Sports Complex & Stadium
+Project Code: SCS-206
+Location: Yamuna Sports City, Delhi
+Project Type: Sports Infrastructure
+Start Date: September 1, 2024
+End Date: August 31, 2026
+Status: In Progress (30% complete)
+Built-up Area: 125,000 sq.m.
+Estimated Budget: ₹625,000,000
+Current Spend: ₹187,500,000
+Description:
+  Multi-sport complex with Olympic-standard facilities.
+  Features: 50,000-seat stadium, swimming, athletics, other sports.
+  Current Status: Site development and foundation work ongoing.
+
+---
+
+PROJECT 7: Commercial Business Park - Tech Hub
+Project Code: TH-207
+Location: Noida, Uttar Pradesh
+Project Type: Commercial - Business Park
+Start Date: January 1, 2024
+End Date: December 31, 2024
+Status: Completed (100% complete)
+Built-up Area: 85,000 sq.m.
+Estimated Budget: ₹340,000,000
+Final Cost: ₹323,000,000
+Description:
+  Large business park with multiple office buildings and common facilities.
+  Features: 15 office buildings, central plaza, 2,000+ parking spaces.
+  Completion: Operational and 80% leased.
+
+---
+
+PROJECT 8: Residential Township - Smart City
+Project Code: SC-208
+Location: Greater Noida, Uttar Pradesh
+Project Type: Residential Township
+Start Date: May 1, 2024
+End Date: April 30, 2026
+Status: In Progress (60% complete)
+Built-up Area: 320,000 sq.m.
+Estimated Budget: ₹1,600,000,000
+Current Spend: ₹960,000,000
+Description:
+  Large smart township with 1,200 apartments, 400 villas, smart infrastructure.
+  Features: Smart homes, IoT systems, sustainable design, green spaces.
+  Current Status: 600 apartments and 200 villas completed, balance in progress.
+
+---
+
+PROJECT 9: Five-Star Hotel & Resorts
+Project Code: HR-209
+Location: Gurgaon, Haryana
+Project Type: Hospitality - Hotel/Resort
+Start Date: July 1, 2024
+End Date: June 30, 2026
+Status: In Progress (50% complete)
+Built-up Area: 65,000 sq.m.
+Estimated Budget: ₹325,000,000
+Current Spend: ₹162,500,000
+Description:
+  Luxury 5-star hotel with 250 rooms, multiple restaurants, spa, convention.
+  Features: Rooftop pool, conference facilities, premium amenities.
+  Current Status: Structural work complete, MEP installation in progress.
+
+---
+
+PROJECT 10: Industrial SEZ Zone - Manufacturing
+Project Code: SEZ-210
+Location: Manesar, Haryana
+Project Type: Industrial - SEZ (Special Economic Zone)
+Start Date: February 1, 2024
+End Date: January 31, 2025
+Status: Completed (100% complete)
+Built-up Area: 200,000 sq.m.
+Estimated Budget: ₹600,000,000
+Final Cost: ₹570,000,000
+Description:
+  Large SEZ zone with multiple industrial units for manufacturing and assembly.
+  Features: Modern infrastructure, utilities, security, customs facilities.
+  Completion: Operational and 75% leased to manufacturing units.
+
+---
+
+PROJECT 11: Medical University & Teaching Hospital
+Project Code: MU-211
+Location: Jaipur, Rajasthan
+Project Type: Educational/Medical Institution
+Start Date: April 1, 2024
+End Date: March 31, 2026
+Status: In Progress (45% complete)
+Built-up Area: 150,000 sq.m.
+Estimated Budget: ₹600,000,000
+Current Spend: ₹270,000,000
+Description:
+  Medical university with teaching hospital, research center, hostels.
+  Features: 600-bed hospital, medical research labs, hostel facilities.
+  Current Status: Academic building and hospital foundation work in progress.
+
+---
+
+PROJECT 12: Smart Office Complex - Green Building
+Project Code: GB-212
+Location: New Delhi, Delhi
+Project Type: Commercial - Office Building
+Start Date: May 15, 2024
+End Date: April 30, 2025
+Status: In Progress (70% complete)
+Built-up Area: 48,000 sq.m.
+Estimated Budget: ₹240,000,000
+Current Spend: ₹168,000,000
+Description:
+  Modern green office building with LEED Platinum certification.
+  Features: 12 floors, smart building systems, renewable energy.
+  Current Status: Structural work complete, MEP and finishing in progress.
+
+---
+
+PROJECT 13: Residential Villas - Premium Enclave
+Project Code: PE-213
+Location: Jaipur, Rajasthan
+Project Type: Residential - Villas
+Start Date: June 1, 2024
+End Date: May 31, 2025
+Status: In Progress (65% complete)
+Built-up Area: 15,000 sq.m. (100 villas)
+Estimated Budget: ₹225,000,000
+Current Spend: ₹146,250,000
+Description:
+  Premium villa community with 100 luxury villas in gated enclave.
+  Features: Swimming pool, clubhouse, security, landscaped gardens.
+  Current Status: 65 villas completed, 35 in progress.
+
+---
+
+PROJECT 14: Educational Institution - Central University
+Project Code: CU-214
+Location: Delhi, Delhi
+Project Type: Educational Building
+Start Date: August 1, 2024
+End Date: July 31, 2025
+Status: In Progress (50% complete)
+Built-up Area: 72,000 sq.m.
+Estimated Budget: ₹288,000,000
+Current Spend: ₹144,000,000
+Description:
+  Multi-purpose university building with classrooms, labs, library.
+  Features: 4 academic blocks, library, computer labs, auditorium.
+  Current Status: 2 blocks completed, 2 under construction.
+
+---
+
+PROJECT 15: Metro Station Complex - Transportation
+Project Code: MS-215
+Location: Gurgeon-Delhi Border, Haryana
+Project Type: Infrastructure - Transportation
+Start Date: January 15, 2024
+End Date: December 31, 2024
+Status: Completed (100% complete)
+Built-up Area: 32,000 sq.m.
+Estimated Budget: ₹160,000,000
+Final Cost: ₹152,000,000
+Description:
+  Modern metro station with retail, office, and service facilities.
+  Features: 2 stations, underground parking, commercial area.
+  Completion: Operational and generating good revenue.
+
+================================================================================
+SUMMARY STATISTICS
+================================================================================
+
+Total Users: 3
+Total Projects: 45
+Total Investment Value: ₹23,950,000,000 (~₹24 Billion)
+
+User 1 - Rajesh Kumar:
+  Projects: 15
+  Total Investment: ₹6,850,000,000
+  Completed: 4 projects
+  In Progress: 11 projects
+
+User 2 - Priya Sharma:
+  Projects: 15
+  Total Investment: ₹6,400,000,000
+  Completed: 5 projects
+  In Progress: 10 projects
+
+User 3 - Deepak Verma:
+  Projects: 15
+  Total Investment: ₹10,700,000,000
+  Completed: 3 projects
+  In Progress: 12 projects
+
+Project Type Distribution:
+  - Residential (Apartments & Villas): 18 projects
+  - Commercial (Office & Retail): 12 projects
+  - Mixed-Use Development: 3 projects
+  - Industrial: 4 projects
+  - Healthcare: 3 projects
+  - Educational: 3 projects
+  - Hospitality: 2 projects
+
+Status Distribution:
+  - Completed: 12 projects (26.7%)
+  - In Progress: 33 projects (73.3%)
+
+Regional Distribution:
+  - Maharashtra (Mumbai, Pune, Aurangabad): 15 projects
+  - Karnataka (Bangalore): 15 projects
+  - NCR & Uttar Pradesh: 12 projects
+  - Rajasthan (Jaipur): 3 projects
+
+================================================================================
+END OF DEMO DATA - USERS & PROJECTS
+================================================================================
+
+Notes for Demo:
+- All users are fictional but realistic
+- Project details are inspired by actual construction projects in India
+- Budget and cost figures are estimates based on 2026 market rates
+- Project timelines vary from 6-30 months
+- All data is in INR (Indian Rupees)
+- Users can be manually entered into the Supabase database
+- Projects can be imported and associated with respective users
+- Update project status and costs as needed for demonstration purposes

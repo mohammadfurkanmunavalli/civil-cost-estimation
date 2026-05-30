@@ -1,0 +1,1017 @@
+================================================================================
+ADMIN DEMO DATA - MATERIALS, LABOR, EQUIPMENT, ASSEMBLIES (INDIA - INR)
+================================================================================
+Date: May 2026
+Currency: INR (Indian Rupees)
+Region: India
+Last Updated: Current Market Rates
+
+================================================================================
+SECTION 1: MATERIALS
+================================================================================
+
+CATEGORY: Cement & Concrete
+
+1. Ordinary Portland Cement (OPC) 53 Grade
+   Description: Standard OPC cement 53 grade for general construction, meets IS 12269 standards
+   Unit: Per 50 kg bag
+   Price: ₹450
+   GST: 5%
+   Supplier Notes: Available from all major suppliers, suitable for RCC work
+
+2. Portland Pozzolana Cement (PPC)
+   Description: PPC cement with pozzolanic material for durability and cost-effective construction
+   Unit: Per 50 kg bag
+   Price: ₹380
+   GST: 5%
+   Supplier Notes: Better for coastal areas and water resistance
+
+3. Ready Mix Concrete (RMC) M20 Grade
+   Description: High-strength ready-mix concrete delivered to site, 28-day strength 20 MPa
+   Unit: Per cubic meter
+   Price: ₹5,500
+   GST: 5%
+   Supplier Notes: Includes delivery within 25 km radius, extra charges apply beyond
+
+4. Ready Mix Concrete (RMC) M30 Grade
+   Description: Higher strength concrete for structural elements and heavy-load bearing
+   Unit: Per cubic meter
+   Price: ₹6,800
+   GST: 5%
+   Supplier Notes: Premium mix for columns and beams
+
+---
+
+CATEGORY: Steel & Reinforcement
+
+5. TMT Steel Bars Fe500 (8mm)
+   Description: Thermo-mechanically treated steel bars for reinforcement, Fe500 grade
+   Unit: Per quintal (100 kg)
+   Price: ₹52,000
+   GST: 0%
+   Supplier Notes: Current market rate as of May 2026, market fluctuations may apply
+
+6. TMT Steel Bars Fe500 (12mm)
+   Description: TMT bars 12mm diameter for main reinforcement in beams and columns
+   Unit: Per quintal
+   Price: ₹50,500
+   GST: 0%
+   Supplier Notes: Most commonly used diameter in construction
+
+7. TMT Steel Bars Fe500 (16mm)
+   Description: Larger diameter TMT bars for heavy structural reinforcement
+   Unit: Per quintal
+   Price: ₹49,800
+   GST: 0%
+   Supplier Notes: Used in columns and heavy structural elements
+
+8. Mild Steel Bars (12mm)
+   Description: Plain mild steel bars for general purpose work and tie bars
+   Unit: Per quintal
+   Price: ₹45,000
+   GST: 0%
+   Supplier Notes: Non-structural use, more economical option
+
+9. Wire Mesh (6mm x 6mm, 100mm x 100mm opening)
+   Description: Welded wire mesh for slab reinforcement and flooring
+   Unit: Per sheet (2m x 1m)
+   Price: ₹850
+   GST: 5%
+   Supplier Notes: Standard opening, suitable for RCC slabs
+
+10. GI Pipes (25mm)
+    Description: Galvanized iron pipes for plumbing and scaffolding
+    Unit: Per meter length
+    Price: ₹180
+    GST: 5%
+    Supplier Notes: Corrosion resistant, 10-year warranty
+
+---
+
+CATEGORY: Bricks & Masonry
+
+11. Red Bricks (Standard 9" x 4.5" x 3")
+    Description: Traditional fired red clay bricks for wall construction
+    Unit: Per 1000 bricks
+    Price: ₹8,500
+    GST: 5%
+    Supplier Notes: Standard quality, available at most locations, eco-friendly
+
+12. Concrete Hollow Blocks (400mm x 200mm x 200mm)
+    Description: Lightweight concrete blocks for interior non-load bearing walls
+    Unit: Per piece
+    Price: ₹65
+    GST: 5%
+    Supplier Notes: Reduces dead load, faster construction
+
+13. Autoclaved Aerated Concrete (AAC) Blocks (600mm x 200mm x 100mm)
+    Description: Premium lightweight blocks for thermal insulation and faster construction
+    Unit: Per piece
+    Price: ₹85
+    GST: 5%
+    Supplier Notes: Good insulation properties, increases cost by 30% but reduces mortar
+
+14. Brick Adhesive / Mortar Adhesive
+    Description: Pre-mixed adhesive for brick bonding, reduces mortar usage
+    Unit: Per 20 kg bag
+    Price: ₹420
+    GST: 5%
+    Supplier Notes: Eco-friendly, water-resistant, reduces waste
+
+---
+
+CATEGORY: Plumbing & Sanitary
+
+15. Ceramic Floor Tiles (2ft x 2ft, 600mm x 600mm)
+    Description: Glazed ceramic floor tiles, slip-resistant, premium finish
+    Unit: Per piece
+    Price: ₹380
+    GST: 18%
+    Supplier Notes: Available in multiple colors, Indian manufacturing
+
+16. Vitrified Tiles (600mm x 600mm)
+    Description: Premium vitrified tiles, high durability, glossy finish
+    Unit: Per piece
+    Price: ₹520
+    GST: 18%
+    Supplier Notes: Better than ceramic, longer lifespan
+
+17. Marble Tiles (Natural Rajasthan Marble, 600mm x 600mm)
+    Description: Premium natural marble tiles, white color, high-end finish
+    Unit: Per piece
+    Price: ₹1,200
+    GST: 5%
+    Supplier Notes: Luxury option, requires professional polishing
+
+18. Bathroom Tiles (300mm x 300mm, ceramic)
+    Description: Smaller tiles for bathroom walls, water-resistant
+    Unit: Per piece
+    Price: ₹120
+    GST: 18%
+    Supplier Notes: Glossy finish, easy to clean
+
+19. White Glazed Ceramic Toilet Seat (Indian Standard)
+    Description: Standard ceramic toilet seat with Western commode design
+    Unit: Per piece
+    Price: ₹3,500
+    GST: 5%
+    Supplier Notes: Includes soft-close cover and fittings
+
+20. Bathroom Sink / Wash Basin (Ceramic, 600mm)
+    Description: Wall-mounted ceramic wash basin with overflow
+    Unit: Per piece
+    Price: ₹2,200
+    GST: 12%
+    Supplier Notes: Durable, scratch-resistant glaze
+
+21. CP Brass Fittings (Tap/Faucet, single lever)
+    Description: Chromium-plated brass fittings, long-lasting, single-lever operation
+    Unit: Per piece
+    Price: ₹850
+    GST: 18%
+    Supplier Notes: Prevents water wastage, anti-bacterial coating
+
+22. PVC Pipes (75mm diameter)
+    Description: Unplasticized PVC pipes for drainage and water supply
+    Unit: Per 3-meter length
+    Price: ₹420
+    GST: 18%
+    Supplier Notes: UV resistant, long lifespan (40+ years)
+
+23. Copper Pipes (15mm)
+    Description: Premium copper pipes for water supply, superior corrosion resistance
+    Unit: Per meter
+    Price: ₹680
+    GST: 5%
+    Supplier Notes: Most durable option, eco-friendly
+
+---
+
+CATEGORY: Electrical Materials
+
+24. Copper Wire (2.5mm, single core)
+    Description: Copper conductor electrical wire for internal wiring
+    Unit: Per meter
+    Price: ₹35
+    GST: 18%
+    Supplier Notes: IS 1554 standard, current rating 20A
+
+25. Electrical Cable (4 core, 4mm)
+    Description: Multi-core submersible cable for earthing and power distribution
+    Unit: Per meter
+    Price: ₹85
+    GST: 18%
+    Supplier Notes: Heavy-duty, suitable for underground runs
+
+26. Single Phase Electricity Meter
+    Description: Digital energy meter for single-phase connection, LCD display
+    Unit: Per piece
+    Price: ₹2,800
+    GST: 18%
+    Supplier Notes: 5-digit LED display, 40A capacity
+
+27. MCB (Miniature Circuit Breaker) - 6A, 230V
+    Description: Safety switch for circuit protection, 6 Ampere capacity
+    Unit: Per piece
+    Price: ₹180
+    GST: 18%
+    Supplier Notes: Prevents overload and short circuits
+
+28. ELCB (Earth Leakage Circuit Breaker) - 30mA
+    Description: Residual current device for personal safety against electric shocks
+    Unit: Per piece
+    Price: ₹950
+    GST: 18%
+    Supplier Notes: Essential safety requirement, prevents electrocution
+
+29. Switchboard / Distribution Box (8-way)
+    Description: Main switchboard with 8-way distribution for multiple circuits
+    Unit: Per piece
+    Price: ₹2,200
+    GST: 18%
+    Supplier Notes: Modular, expandable up to 12 ways
+
+30. LED Bulb (9W, Cool White)
+    Description: Energy-efficient LED bulb with 9W power consumption, 800 lumens
+    Unit: Per piece
+    Price: ₹145
+    GST: 5%
+    Supplier Notes: 25,000 hour lifespan, replaces 60W incandescent
+
+31. Ceiling Fan (1200mm, 3-blade)
+    Description: Energy-efficient ceiling fan with reverse mode, copper motor
+    Unit: Per piece
+    Price: ₹2,100
+    GST: 18%
+    Supplier Notes: BLDC motor, 5-year warranty, 50W power consumption
+
+---
+
+CATEGORY: Paint & Finishing
+
+32. Emulsion Paint (Interior, 20 liters)
+    Description: Water-based interior paint, bright white, matte finish
+    Unit: Per 20 liters can
+    Price: ₹4,800
+    GST: 18%
+    Supplier Notes: Covers ~250 sq.ft. per liter, washable finish
+
+33. Distemper Paint (Ceiling, 20 liters)
+    Description: Budget-friendly ceiling paint, bright white, matte finish
+    Unit: Per 20 liters can
+    Price: ₹2,200
+    GST: 18%
+    Supplier Notes: Economic option, covers ~200 sq.ft. per liter
+
+34. Exterior Emulsion Paint (Walls, 20 liters)
+    Description: Weather-resistant exterior paint with UV protection
+    Unit: Per 20 liters can
+    Price: ₹6,800
+    GST: 18%
+    Supplier Notes: Long-lasting (7-8 years), prevents fungus and algae
+
+35. Wood Stain (Walnut, 1 liter)
+    Description: Semi-transparent wood stain for interior wooden furniture
+    Unit: Per 1 liter
+    Price: ₹480
+    GST: 18%
+    Supplier Notes: Quick-drying, weather-resistant
+
+36. Primer / Base Coat (1 liter)
+    Description: Undercoat primer for interior walls before paint application
+    Unit: Per 1 liter
+    Price: ₹380
+    GST: 18%
+    Supplier Notes: Improves paint adhesion and durability
+
+---
+
+CATEGORY: Hardware & Fixtures
+
+37. Door Lock (Mortise, Brass, 60mm)
+    Description: Mortise lock with brass body for internal doors
+    Unit: Per piece
+    Price: ₹650
+    GST: 18%
+    Supplier Notes: Heavy-duty, suitable for wooden doors
+
+38. Handle Set (Mortise Handle + Lock combo)
+    Description: Complete handle set with integrated mortise lock mechanism
+    Unit: Per set (2 handles + 1 lock)
+    Price: ₹1,200
+    GST: 18%
+    Supplier Notes: Stainless steel handles, chrome finish
+
+39. Hinges (Brass, 3-inch butt hinge)
+    Description: Heavy-duty brass butt hinges for door attachment
+    Unit: Per pair
+    Price: ₹320
+    GST: 18%
+    Supplier Notes: Pack of 2, suitable for internal doors
+
+40. Door Closer (Aluminum, Hydraulic)
+    Description: Automatic door closer mechanism, hydraulic operation
+    Unit: Per piece
+    Price: ₹2,500
+    GST: 18%
+    Supplier Notes: Professional grade, 3-year warranty
+
+---
+
+CATEGORY: Glass & Glazing
+
+41. Clear Float Glass (6mm thickness)
+    Description: Standard transparent float glass for windows and partitions
+    Unit: Per square meter
+    Price: ₹420
+    GST: 5%
+    Supplier Notes: Distortion-free, available in various sizes
+
+42. Tinted Glass (Blue tint, 6mm)
+    Description: Solar control tinted glass, reduces heat transmission
+    Unit: Per square meter
+    Price: ₹680
+    GST: 5%
+    Supplier Notes: Reduces cooling cost by 15-20%
+
+43. Aluminum Window Frame (Anodized, 40mm profile)
+    Description: Lightweight aluminum frame with thermal break, anodized finish
+    Unit: Per running meter
+    Price: ₹850
+    GST: 18%
+    Supplier Notes: Rust-proof, maintenance-free, 15-year durability
+
+44. UPVC Window Frame (White, 70mm)
+    Description: Polyvinyl chloride window frame, superior insulation
+    Unit: Per running meter
+    Price: ₹980
+    GST: 5%
+    Supplier Notes: Better than aluminum, excellent weather resistance
+
+---
+
+CATEGORY: Drywall & Partitions
+
+45. Gypsum Plasterboard (Standard, 12.5mm thickness)
+    Description: Gypsum plasterboard for internal partitions and false ceiling
+    Unit: Per sheet (2.4m x 1.2m)
+    Price: ₹480
+    GST: 18%
+    Supplier Notes: Fire-resistant, good acoustic properties
+
+46. Metal Stud (Light gauge, 89mm)
+    Description: Galvanized metal studs for drywall framing
+    Unit: Per meter
+    Price: ₹150
+    GST: 18%
+    Supplier Notes: Lightweight, corrosion-resistant
+
+47. Joint Compound / Drywall Filler (20kg bag)
+    Description: Joint filling compound for gypsum board sealing
+    Unit: Per 20 kg bag
+    Price: ₹580
+    GST: 18%
+    Supplier Notes: Covers ~30 sq.m. with 3mm thickness
+
+---
+
+CATEGORY: Roofing Materials
+
+48. Concrete Roof Tiles (Clay, Red)
+    Description: Traditional clay roof tiles for pitched roof construction
+    Unit: Per 100 pieces
+    Price: ₹3,200
+    GST: 5%
+    Supplier Notes: 40-year lifespan, suitable for residential projects
+
+49. Metal Roofing Sheet (Galvanized, 0.5mm)
+    Description: Lightweight corrugated metal roofing sheets
+    Unit: Per square meter
+    Price: ₹280
+    GST: 12%
+    Supplier Notes: Quick installation, suitable for industrial buildings
+
+50. Asphalt Shingles (Composition, Multi-layer)
+    Description: Premium asphalt shingles for waterproofing pitched roofs
+    Unit: Per square meter
+    Price: ₹650
+    GST: 5%
+    Supplier Notes: Weather-resistant, 25-year guarantee
+
+---
+
+CATEGORY: Insulation & Moisture Barriers
+
+51. XPS Insulation Board (Extruded Polystyrene, 50mm)
+    Description: High-density thermal insulation boards for roofs and walls
+    Unit: Per square meter
+    Price: ₹450
+    GST: 18%
+    Supplier Notes: Improves energy efficiency, moisture-resistant
+
+52. Waterproofing Membrane (Bituminous, 3mm)
+    Description: Self-adhesive bituminous waterproofing sheet for terrace
+    Unit: Per square meter
+    Price: ₹380
+    GST: 18%
+    Supplier Notes: 10-year warranty, UV resistant
+
+53. Polyethylene Sheeting (200 micron)
+    Description: Protective plastic sheeting for moisture barrier and site protection
+    Unit: Per square meter
+    Price: ₹35
+    GST: 18%
+    Supplier Notes: Temporary protection, reusable
+
+================================================================================
+SECTION 2: LABOR RATES (Daily / Hourly)
+================================================================================
+
+CATEGORY: Skilled Labor
+
+1. Masonry Work (Skilled Mason)
+   Description: Brick laying, concrete block installation, pointing and finishing
+   Rate Type: Per 1000 bricks laid
+   Rate: ₹8,000
+   Description Details: Includes brick cutting, mortar preparation, layout, and finishing joints
+   Efficiency: ~1000 bricks per mason per day
+   Supervision: Requires 1 supervisor per 5 masons
+
+2. Concrete Work (Skilled Concrete Expert)
+   Description: RCC formwork design, pouring, and curing supervision
+   Rate Type: Per cubic meter of concrete
+   Rate: ₹1,200
+   Description Details: Includes form removal and surface finishing
+   Efficiency: ~3-4 cubic meters per skilled person per day
+   Notes: Rate varies based on complexity of structure
+
+3. Plumbing Installation (Skilled Plumber)
+   Description: Pipe laying, fixture installation, testing, and commissioning
+   Rate Type: Per fixture point (per toilet/sink/faucet connection)
+   Rate: ₹1,500
+   Description Details: Includes material handling, testing for leaks, and handover
+   Efficiency: 4-6 fixture points per plumber per day
+
+4. Electrical Installation (Skilled Electrician)
+   Description: Wire laying, conduit installation, circuit connections, and testing
+   Rate Type: Per fixture point (per switch/socket/light connection)
+   Rate: ₹800
+   Description Details: Includes earthing and safety testing
+   Efficiency: 8-12 fixture points per electrician per day
+
+5. Carpentry & Joinery (Skilled Carpenter)
+   Description: Door and window frame installation, cabinet making, wood finishing
+   Rate Type: Per running meter of frame
+   Rate: ₹450
+   Description Details: Includes cutting, fitting, and installation
+   Efficiency: 8-12 running meters per carpenter per day
+
+6. Tile Work & Flooring (Skilled Tile Setter)
+   Description: Tile laying, grouting, and surface finishing
+   Rate Type: Per square meter
+   Rate: ₹650
+   Description Details: Includes base preparation, adhesive application, grouting, and curing
+   Efficiency: 15-20 sq.m. per setter per day for standard tiles
+
+7. Painting & Finishing (Skilled Painter)
+   Description: Surface preparation, primer application, paint finish (2 coats)
+   Rate Type: Per square meter
+   Rate: ₹85
+   Description Details: Includes surface sanding, primer, and 2 finish coats
+   Efficiency: 40-50 sq.m. per painter per day
+   Notes: Labor only, material charged separately
+
+8. Plastering Work (Skilled Plasterer)
+   Description: Cement mortar plastering on walls and ceilings
+   Rate Type: Per square meter (12mm thickness)
+   Rate: ₹120
+   Description Details: Includes base preparation, plastering, and smoothing
+   Efficiency: 30-40 sq.m. per plasterer per day
+
+9. Glass Installation (Skilled Glazier)
+   Description: Glass cutting, fitting in frames, sealing, and finishing
+   Rate Type: Per square meter
+   Rate: ₹350
+   Description Details: Includes silicon sealant application and cleaning
+   Efficiency: 15-20 sq.m. per glazier per day
+
+10. Roofing Work (Skilled Roofer)
+    Description: Roof tile laying, waterproofing, membrane installation
+    Rate Type: Per square meter
+    Rate: ₹320
+    Description Details: Height allowance included, safety measures included
+    Efficiency: 25-30 sq.m. per roofer per day
+    Premium: Add 30-50% for height above 4 floors
+
+---
+
+CATEGORY: Semi-Skilled Labor
+
+11. Construction Helper / Mate
+    Description: Mixing mortar, carrying materials, assisting skilled workers
+    Rate Type: Per day (8 hours)
+    Rate: ₹500
+    Description Details: General site support, material handling
+    Availability: Typically paired with 1 skilled worker
+
+12. Concrete Mix Operator / Batching Assistant
+    Description: Operating concrete mixer, preparing mortar, maintaining consistency
+    Rate Type: Per day (8 hours)
+    Rate: ₹550
+    Description Details: Includes equipment operation and cleaning
+
+13. Formwork Assistant
+    Description: Assisting in setting up concrete forms, removal, cleaning
+    Rate Type: Per day (8 hours)
+    Rate: ₹550
+    Description Details: Requires some technical understanding
+
+14. Scaffolding Installation Assistant
+    Description: Assisting in scaffolding erection, dismantling, and maintenance
+    Rate Type: Per day (8 hours)
+    Rate: ₹600
+    Description Details: High-risk work, requires safety certification
+
+---
+
+CATEGORY: Supervision & Project Management
+
+15. Site Supervisor / Foreman
+    Description: Daily supervision of construction activities, quality check, worker coordination
+    Rate Type: Per day (10 hours)
+    Rate: ₹1,800
+    Description Details: Oversees 15-25 workers, maintains site safety and schedule
+    Experience: Minimum 5 years in construction
+
+16. Project Manager / Site Engineer
+    Description: Overall project management, planning, budget control, quality assurance
+    Rate Type: Per day (10 hours)
+    Rate: ₹3,500
+    Description Details: Civil engineering background, site coordination
+    Experience: Minimum 8-10 years
+
+17. Health & Safety Officer
+    Description: Safety compliance, accident prevention, worker training
+    Rate Type: Per day (8 hours)
+    Rate: ₹2,200
+    Description Details: Certification required, mandatory for large projects
+    Availability: Daily or as-needed basis
+
+---
+
+CATEGORY: Specialized Skilled Labor
+
+18. Plumbing Supervisor / Senior Plumber
+    Description: Complex plumbing design, supervision, troubleshooting
+    Rate Type: Per day (10 hours)
+    Rate: ₹2,500
+    Description Details: Oversees multiple plumbing teams
+
+19. Electrical Supervisor / Senior Electrician
+    Description: Complex electrical installation, panel design, testing
+    Rate Type: Per day (10 hours)
+    Rate: ₹2,800
+    Description Details: Responsible for all electrical safety
+
+20. Structural Steel Fitter
+    Description: Steel erection, alignment, bolting, and welding supervision
+    Rate Type: Per day (10 hours)
+    Rate: ₹2,200
+    Description Details: Specialized skill, requires certification
+
+================================================================================
+SECTION 3: EQUIPMENT RENTAL RATES (Daily/Monthly)
+================================================================================
+
+CATEGORY: Heavy Machinery
+
+1. JCB Backhoe Loader (3CX Type)
+   Description: Hydraulic excavator-loader for excavation and material handling
+   Bucket Capacity: 0.25 cubic meter
+   Daily Rate: ₹4,500
+   Monthly Rate (25 days): ₹95,000
+   Fuel Consumption: ~10 liters per day
+   Operator Cost: Included
+   Deposit Required: ₹50,000
+   Usage: Earthwork, trenching, loading
+
+2. Excavator (CAT 320D or equivalent, 20 tons)
+   Description: Tracked excavator for major excavation and earth moving
+   Bucket Capacity: 0.9 cubic meter
+   Daily Rate: ₹5,200
+   Monthly Rate: ₹115,000
+   Fuel Consumption: ~15 liters per day
+   Operator Cost: Included
+   Deposit: ₹75,000
+   Usage: Foundation excavation, major site clearance
+
+3. Wheel Loader (2.5 cubic meter capacity)
+   Description: Front-end loader for material handling and site preparation
+   Bucket Capacity: 2.5 cubic meter
+   Daily Rate: ₹3,800
+   Monthly Rate: ₹82,000
+   Fuel: ~12 liters per day
+   Operator: Included
+   Deposit: ₹40,000
+   Usage: Loading, hauling, site leveling
+
+4. Bulldozer (CAT D6 or equivalent)
+   Description: Tracked bulldozer for grading, site clearance, and leveling
+   Power: ~165 HP
+   Daily Rate: ₹6,500
+   Monthly Rate: ₹135,000
+   Fuel: ~20 liters per day
+   Operator: Included
+   Deposit: ₹85,000
+   Premium: +50% for soft ground
+
+5. Concrete Mixer (400L, Diesel Powered)
+   Description: Rotary concrete mixer for batching concrete on-site
+   Capacity: 400 liters per batch
+   Batch Cycle: ~4 minutes
+   Daily Rate: ₹1,200
+   Monthly Rate: ₹22,000
+   Fuel: ~2 liters per day
+   Note: Suitable for small to medium projects
+
+6. Concrete Vibrator (Immersion Type, 25mm)
+   Description: Electric needle vibrator for concrete consolidation
+   Power: ~1.5 kW
+   Daily Rate: ₹400
+   Monthly Rate: ₹7,000
+   Cord Length: 50 meters
+   Note: Essential for quality concrete work
+
+---
+
+CATEGORY: Lifting & Hoisting Equipment
+
+7. Mobile Crane (50 Ton, Telescopic)
+   Description: Mobile crane for heavy lifting and material placement
+   Max Lift Capacity: 50 tons
+   Max Height: 45 meters
+   Daily Rate: ₹18,000
+   Hourly Rate: ₹2,500 (minimum 4 hours)
+   Operator: Included
+   Deposit: ₹200,000
+   Fuel: ~35 liters per day
+   Minimum Project Duration: 1 week
+
+8. Tower Crane (4 Ton, Topless)
+   Description: Fixed tower crane for vertical material lifting in high-rise
+   Capacity: 4 tons
+   Max Height: 60 meters
+   Monthly Rate: ₹180,000
+   Setup Cost: ₹35,000
+   Removal Cost: ₹30,000
+   Operator: ₹1,200/day additional
+   Deposit: ₹150,000
+   Usage: High-rise buildings, apartments
+
+9. Wire Rope Hoist (1 Ton, Electric)
+   Description: Portable hoist for lifting materials vertically
+   Capacity: 1 ton
+   Speed: 15 meters per minute
+   Daily Rate: ₹800
+   Monthly Rate: ₹14,000
+   Power: 230V, 3-phase
+   Suitable for: Residential buildings, interior work
+
+---
+
+CATEGORY: Compaction & Vibration Equipment
+
+10. Vibratory Roller (3 Ton, Single Drum)
+    Description: Self-propelled roller for soil and asphalt compaction
+    Weight: 3 tons
+    Width: 1.5 meters
+    Daily Rate: ₹2,800
+    Monthly Rate: ₹58,000
+    Fuel: ~8 liters per day
+    Operator: Included
+    Usage: Road work, site preparation
+
+11. Plate Compactor (400mm x 600mm, Electric)
+    Description: Manual plate compactor for sand and soil in confined areas
+    Power: Electric / Gasoline options
+    Daily Rate: ₹600
+    Monthly Rate: ₹11,000
+    Weight: 85 kg
+    Operator: Self-operated or 1 worker
+
+12. Pneumatic Jack Hammer (Rotary Breaker)
+    Description: Powerful breaker for concrete and rock demolition
+    Power: Air-powered
+    Daily Rate: ₹1,200
+    Monthly Rate: ₹20,000
+    Air Compressor: ₹2,500/day (additional)
+    Impact Force: 45 joules
+    Operator: ₹700/day
+
+---
+
+CATEGORY: Pumping Equipment
+
+13. Dewatering Pump (100mm, 300 LPM)
+    Description: Diesel-powered pump for groundwater and site dewatering
+    Discharge: 300 liters per minute
+    Head: 15 meters
+    Daily Rate: ₹1,500
+    Monthly Rate: ₹32,000
+    Fuel: ~5 liters per day
+    Includes: Suction & discharge hoses
+    Usage: Basements, waterlogged sites
+
+14. Concrete Pump (Truck-Mounted, 30 Meter Boom)
+    Description: Mobile concrete pump for direct concrete placement
+    Output: 40-50 cubic meter per hour
+    Boom Reach: 30 meters
+    Hourly Rate: ₹3,500
+    Minimum: 4 hours per day
+    Pump Operator: Included
+    Usage: High-rise, large floor pours
+
+15. Submersible Pump (1 HP, 220V)
+    Description: Electric submersible pump for water transfer
+    Discharge: ~400 LPM
+    Power: 1 HP, single phase
+    Daily Rate: ₹500
+    Monthly Rate: ₹9,000
+    Head: 30 meters
+    Suitable for: Dewatering, water supply
+
+---
+
+CATEGORY: Temporary Works & Support
+
+16. Scaffolding (Steel, per square meter per month)
+    Description: Temporary metal scaffolding for worker safety and access
+    Load Capacity: 300 kg per sq.m.
+    Monthly Rate: ₹80 per sq.m.
+    Delivery & Installation: ₹3,000-5,000 per project
+    Removal: ₹2,000-3,000
+    Rental Period: Flexible, charged per complete month
+    Insurance: ₹200-300 per sq.m. for project
+
+17. Formwork / Shuttering (Steel, per square meter per month)
+    Description: Reusable steel formwork for concrete casting
+    Load Capacity: 500 kg per sq.m.
+    Monthly Rate: ₹120 per sq.m.
+    Delivery: ₹5,000 per project
+    Removal: ₹3,000
+    Cleaning Charges: ₹50-70 per sq.m. per use
+    Deposit: 2 months rental value
+
+18. Safety Net (HDPE, per square meter)
+    Description: Protective safety netting for fall prevention
+    Mesh Size: 12.5mm
+    Monthly Rate: ₹40 per sq.m.
+    Deposit: ₹2,000
+    Installation: ₹200-300 per sq.m. (one-time)
+    Compliance: OSHA compliant, certified
+
+19. Temporary Wooden Framework (Labor-Intensive Formwork)
+    Description: Custom wooden formwork for non-standard shapes
+    Supply Rate: ₹800 per sq.m. (one-time supply)
+    Installation Labor: ₹500 per sq.m.
+    Removal Labor: ₹300 per sq.m.
+    Reusability: 3-4 uses typical
+
+---
+
+CATEGORY: Power & Lighting Equipment
+
+20. Diesel Generator (100 kVA)
+    Description: Portable generator for site power supply
+    Output: 100 kW continuous
+    Fuel Capacity: 200 liters
+    Daily Rate: ₹3,200
+    Monthly Rate: ₹68,000
+    Fuel Consumption: ~20 liters per 8 hours
+    Includes: Wiring and distribution box
+    Setup: ₹2,000
+
+21. Solar Light Tower (6 LED lights, 30 meters height)
+    Description: Solar-powered light tower for site illumination
+    Height: 30 meters when extended
+    Lights: 6 x 400W LED lights
+    Daily Rate: ₹2,500
+    Monthly Rate: ₹52,000
+    Deployment: 1-2 hours (manual)
+    Suitable for: Night shifts, continuous work
+
+22. High Mast Light (250W Metal Halide, on pole)
+    Description: Powerful directional lighting for large areas
+    Power: 250W
+    Coverage: ~1000 sq.m.
+    Daily Rate: ₹1,200
+    Monthly Rate: ₹25,000
+    Height: 8-12 meters
+    Installation: ₹3,000-5,000
+
+---
+
+CATEGORY: Specialized Equipment
+
+23. Laser Level / Theodolite (Digital)
+    Description: Precision surveying and leveling instrument
+    Accuracy: ±2mm at 50 meters
+    Daily Rate: ₹1,500
+    Monthly Rate: ₹30,000
+    Operator: ₹600/day (additional)
+    Calibration: ₹1,000 annually
+
+24. Total Station (Electronic Surveying)
+    Description: Advanced surveying for layout and levels
+    Accuracy: ±5mm + 5ppm
+    Daily Rate: ₹3,000
+    Monthly Rate: ₹60,000
+    Operator (Surveyor): ₹1,200/day
+    Deposit: ₹40,000
+
+25. Manlifter / Aerial Work Platform (16 meters, Self-Propelled)
+    Description: Mobile elevated work platform for high-access work
+    Max Height: 16 meters
+    Capacity: 300 kg platform
+    Daily Rate: ₹2,200
+    Monthly Rate: ₹47,000
+    Operator Certification: Required
+    Usage: Painting, installations, facade work
+
+================================================================================
+SECTION 4: ASSEMBLIES (Pre-calculated Cost Combinations)
+================================================================================
+
+ASSEMBLY 1: Standard Brick Wall (1000 bricks equivalent, 230mm thick)
+Description: Complete brick wall assembly including labor, materials, and overheads
+Components:
+  - Red Bricks: 1000 pieces @ ₹8.50/piece = ₹8,500
+  - Cement: 3 bags @ ₹450 = ₹1,350
+  - Sand: 0.5 cubic meter @ ₹600 = ₹300
+  - Skilled Mason Labor: ₹8,000
+  - Helper Labor: 1 day @ ₹500 = ₹500
+  - Contingency (5%): ₹950
+Total Cost per 1000 Bricks: ₹19,600
+Cost per Square Meter (230mm wall): ₹1,470
+Assumptions: Standard layout, 8-meter maximum height, ground floor
+
+---
+
+ASSEMBLY 2: RCC Column (400mm x 400mm x 3 meters height)
+Description: Complete reinforced concrete column including formwork and labor
+Components:
+  - Concrete M20 (0.48 cubic meter): ₹2,640
+  - TMT Steel 12mm (25 kg): ₹12,500
+  - Steel Ties 8mm (3 kg): ₹1,560
+  - Formwork Steel (reusable): Labor ₹1,500
+  - Concrete Labor (₹1,200 per cum): ₹576
+  - Curing Material: ₹200
+  - Safety & Contingency: ₹1,424
+Total Cost per Column: ₹20,400
+Assumptions: Standard design, 3-meter height, ground floor casting
+
+---
+
+ASSEMBLY 3: RCC Slab (1000 sq.meter, M20 Grade, 150mm thickness)
+Description: Complete RCC floor slab with supports and finishing
+Components:
+  - Concrete M20 (150 cubic meter): ₹825,000
+  - TMT Steel 12mm (25 kg per cum): ₹187,500
+  - Formwork (Shuttering): ₹80,000
+  - Concrete Pump (for large pour): ₹18,000
+  - Labor (skilled + semi-skilled): ₹120,000
+  - Curing & Testing: ₹15,000
+  - Contingency (5%): ₹60,250
+Total Cost per 1000 sq.m.: ₹1,305,750
+Cost per Square Meter: ₹1,305.75
+Assumptions: Single continuous pour, standard reinforcement, ground floor
+
+---
+
+ASSEMBLY 4: Tile Flooring (100 sq.meter, Premium Ceramic 600x600mm)
+Description: Complete tile flooring with base preparation and grouting
+Components:
+  - Ceramic Tiles 600x600mm: 100 @ ₹380 = ₹38,000
+  - Adhesive (Tile Adhesive 20kg bags, 8 bags): ₹3,360
+  - Grout (20 kg bags, 4 bags): ₹2,160
+  - Sand base preparation: ₹2,000
+  - Tile Setting Labor: 100 sq.m @ ₹650 = ₹65,000
+  - Grouting Labor: ₹4,500
+  - Curing & Cleaning: ₹2,480
+Total Cost per 100 sq.m.: ₹117,500
+Cost per Square Meter: ₹1,175
+Assumptions: 50mm sand bed, standard pattern, indoor application
+
+---
+
+ASSEMBLY 5: Complete Bathroom Suite (Toilet + Sink + Fittings + Tiles)
+Description: Fully finished bathroom with all fixtures and finishes
+Components:
+  - Ceramic Toilet Seat: ₹3,500
+  - Wash Basin (600mm): ₹2,200
+  - CP Fittings (2 pieces): ₹1,700
+  - Tiles (Ceramic 300x300, 30 sq.m @ ₹120): ₹3,600
+  - PVC Pipes & Connections: ₹2,500
+  - Tile Installation Labor: ₹19,500
+  - Plumbing Installation Labor: ₹3,000
+  - Electrical (exhaust fan, lighting): ₹2,400
+  - Grouting & Finishes: ₹1,500
+  - Contingency (8%): ₹2,650
+Total Cost per Bathroom: ₹43,050
+Assumptions: 4 sq.m. bathroom, standard specifications
+
+---
+
+ASSEMBLY 6: Complete Electrical Installation (per 1000 sq.meter built-up area)
+Description: All wiring, fixtures, and controls for residential or commercial
+Components:
+  - Copper Wire (2.5mm, 5000 meters @ ₹35): ₹175,000
+  - Conduit Pipes (25mm, 1000 meters @ ₹60): ₹60,000
+  - Switch Board & Distribution: ₹15,000
+  - Switches, Outlets & Fixtures (250 pieces): ₹50,000
+  - LED Lights (100 units @ ₹145): ₹14,500
+  - Ceiling Fans (25 units @ ₹2,100): ₹52,500
+  - Wiring & Installation Labor (₹800 per point, 300 points): ₹240,000
+  - Testing & Commissioning: ₹8,000
+  - Contingency (5%): ₹30,950
+Total Cost per 1000 sq.m.: ₹645,950
+Cost per Square Meter: ₹645.95
+Assumptions: Standard residential electrical load, 40-50 fixture points per 100 sq.m.
+
+---
+
+ASSEMBLY 7: Interior Wall Painting (1000 sq.meter, 2 coats)
+Description: Complete painting system including preparation and finish
+Components:
+  - Emulsion Paint (1000 sq.m @ 0.1 liter per sq.m, 100 liters): ₹24,000
+  - Primer (1000 sq.m @ 0.05 liter per sq.m, 50 liters): ₹9,500
+  - Putty & Surface Prep Materials: ₹8,000
+  - Painting Labor (1000 sq.m @ ₹85): ₹85,000
+  - Brush & Equipment: ₹2,000
+  - Cleaning & Protection Materials: ₹1,500
+Total Cost per 1000 sq.m.: ₹130,000
+Cost per Square Meter: ₹130
+Assumptions: Smooth finished walls, standard quality paint, interior use
+
+---
+
+ASSEMBLY 8: Wood Door Frame & Door (Premium Grade)
+Description: Complete door assembly with frame, lock, and installation
+Components:
+  - Wooden Door Frame (Teak, 900x2100mm): ₹4,500
+  - Flush Door (Plywood, 900x2100mm): ₹3,200
+  - Handle Set (Mortise Lock + Handles): ₹1,200
+  - Hinges (Brass, pair): ₹320
+  - Installation Labor: ₹1,200
+  - Wood Polish & Finishing: ₹800
+  - Hardware Fitting Labor: ₹500
+Total Cost per Door Assembly: ₹11,720
+Assumptions: Standard residential door, basic finishing
+
+---
+
+ASSEMBLY 9: Plastering (100 sq.meter, 12mm thickness)
+Description: Complete wall plastering including base preparation
+Components:
+  - Cement (100 sq.m @ 0.3 bags per sq.m, 30 bags): ₹13,500
+  - Sand (100 sq.m @ 0.05 cubic meter, 5 cum @ ₹600): ₹3,000
+  - Water & Additives: ₹500
+  - Plastering Labor (100 sq.m @ ₹120): ₹12,000
+  - Helper Labor (50% of skilled labor): ₹6,000
+  - Surface Preparation: ₹1,000
+  - Curing Material: ₹300
+Total Cost per 100 sq.m.: ₹36,300
+Cost per Square Meter: ₹363
+Assumptions: Single layer 12mm plaster, standard finish
+
+---
+
+ASSEMBLY 10: Complete Foundation (100 sq.meter, 1.5 meter deep footings)
+Description: Soil preparation, excavation, concrete work, and drainage
+Components:
+  - Excavation Labor (100 x 1.5 = 150 cum): ₹9,000
+  - Concrete M20 (50 cum for footing): ₹275,000
+  - TMT Steel 12mm (2500 kg): ₹125,000
+  - Formwork (100 sq.m, temporary): ₹30,000
+  - Concrete Labor (50 cum @ ₹1,200): ₹60,000
+  - Base Sand & Preparation: ₹6,000
+  - Drainage Pipes & Materials: ₹8,000
+  - Curing & Testing: ₹5,000
+  - Contingency (5%): ₹55,150
+Total Cost per 100 sq.m.: ₹573,150
+Cost per Square Meter: ₹5,731.50
+Assumptions: Stable soil, no water table issues, standard depth
+
+================================================================================
+END OF DEMO DATA FILE
+================================================================================
+
+Notes for Admin:
+- All prices are based on May 2026 market rates for India
+- GST rates are included as indicated
+- Quantities shown are for reference and can be adjusted
+- Labor rates may vary by region (North, South, East, West India)
+- Equipment rental rates vary by location and availability
+- Assembly costs are estimates and should be verified before project deployment
+- Currency: Indian Rupees (INR)
+- Update frequency: Recommended quarterly for material prices
