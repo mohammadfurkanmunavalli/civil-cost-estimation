@@ -7,7 +7,7 @@ pipeline {
         DOCKER_APP_DIR = "civil-cost-estimation"
         DOCKER_IMAGE = "civil-cost-estimation-app"
         DOCKER_CONTAINER = "civil-cost-estimation-container"
-        RECIPIENTS = "02fe23bcs403@kletech.ac.in,mmohammadfurkhan@gmail.com,02fe23bcs411@kletech.ac.in"
+        RECIPIENTS = "02fe23bcs403@kletech.ac.in,mmohammadfurkhan@gmail.com"
     }
 
     stages {
