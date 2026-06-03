@@ -96,7 +96,7 @@ export default function LoginPage() {
               id="login-password"
               type={showPassword ? 'text' : 'password'}
               className="input pe-10"
-              placeholder="••••••••"
+              placeholder="*******"
               value={password}
               onChange={e => setPassword(e.target.value)}
               required
